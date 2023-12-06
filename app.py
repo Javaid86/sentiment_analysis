@@ -2,7 +2,7 @@
 import pandas as pd    # to load dataset
 import numpy as np     # for mathematic equation
 
-from keras.preprocessing.text import Tokenizer  # to encode text to int
+from tensorflow.keras.preprocessing.text import Tokenizer  # to encode text to int
 from tensorflow.keras.preprocessing.sequence import pad_sequences   # to do padding or truncating
 from tensorflow.keras.models import Sequential     # the model
 from tensorflow.keras.layers import Embedding, LSTM, Dense # layers of the architecture
