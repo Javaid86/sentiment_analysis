@@ -1,7 +1,6 @@
 # Importing necessary libraries
 import pandas as pd    # to load dataset
 import numpy as np     # for mathematic equation
-from nltk.corpus import stopwords   # to get collection of stopwords
 from sklearn.model_selection import train_test_split       # for splitting dataset
 from tensorflow.keras.preprocessing.text import Tokenizer  # to encode text to int
 from tensorflow.keras.preprocessing.sequence import pad_sequences   # to do padding or truncating
