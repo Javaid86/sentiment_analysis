@@ -6,3 +6,4 @@ keras
 Tokenizer
 nltk
 stopwords
+nltk.corpus
