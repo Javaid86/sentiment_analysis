@@ -4,3 +4,5 @@ flask
 tensorflow
 keras
 Tokenizer
+nltk
+stopwords
