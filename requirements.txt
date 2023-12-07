@@ -7,3 +7,4 @@ Tokenizer
 nltk
 stopwords
 nltk
+streamlit
