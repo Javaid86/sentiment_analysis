@@ -3,3 +3,4 @@ pandas
 flask
 tensorflow
 keras
+Tokenizer
